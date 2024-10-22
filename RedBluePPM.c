@@ -8,6 +8,8 @@
  * 
  *   Here our program takes in an outfile name, and two arguments for
  *   the rows and columns for the size of the image to produce. 
+ *
+ *   This is my comment on the script from my partner's repository
 */ 
 
 int main(int argc,    // This is the number of things passed into this function.  
